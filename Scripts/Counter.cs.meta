@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b223a9086d7439b40875f1a591e8259c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - counter: {instanceID: 0}
+  - Player: {instanceID: 0}
+  - Pillers_Creation_Object: {instanceID: 0}
+  - Buildings: {fileID: 6421163708684788132, guid: 8a3343d343519254680ae422725a19b1, type: 3}
+  - Police: {fileID: 7355668523458120855, guid: 58aabc9f5f04afa4da5de4940b44e917, type: 3}
+  - Buildings_Prop: {instanceID: 0}
+  - Police_Prop: {instanceID: 0}
+  - Player_Prop: {instanceID: 0}
+  - Audio_Counter: {instanceID: 0}
+  - Three: {instanceID: 0}
+  - Two: {instanceID: 0}
+  - One: {instanceID: 0}
+  - Go: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
